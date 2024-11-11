@@ -1,0 +1,14 @@
+2024/11/09-19:09:21.233 1b0c Reusing MANIFEST C:\Users\PC-casa\Desktop\Whatsapp\wppc server\tokens\sessionName\Default\Local Storage\leveldb/MANIFEST-000001
+2024/11/09-19:09:21.237 1b0c Recovering log #9
+2024/11/09-19:09:21.241 1b0c Reusing old log C:\Users\PC-casa\Desktop\Whatsapp\wppc server\tokens\sessionName\Default\Local Storage\leveldb/000009.log 
+2024/11/09-19:10:21.452 1b0c Level-0 table #13: started
+2024/11/09-19:10:21.456 1b0c Level-0 table #13: 12397 bytes OK
+2024/11/09-19:10:21.458 1b0c Delete type=0 #9
+2024/11/09-19:10:21.458 1b0c Compacting 4@0 + 0@1 files
+2024/11/09-19:10:21.463 1b0c Generated table #14@0: 94 keys, 8509 bytes
+2024/11/09-19:10:21.463 1b0c Compacted 4@0 + 0@1 files => 8509 bytes
+2024/11/09-19:10:21.464 1b0c compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/09-19:10:21.465 1b0c Delete type=2 #3
+2024/11/09-19:10:21.465 1b0c Delete type=2 #7
+2024/11/09-19:10:21.465 1b0c Delete type=2 #10
+2024/11/09-19:10:21.465 1b0c Delete type=2 #13
