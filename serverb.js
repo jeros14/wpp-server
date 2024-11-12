@@ -14,7 +14,7 @@ function start(client) {
     client.onMessage((message) => {
         if (message.body === 'Hola') {
           client
-            .sendText(message.from, 'Hola este es un buen bot?')
+            .sendText(message.from, 'Hola Bienvenido...')
             .then((result) => {
               console.log('Result: ', result); //return object success
             })
